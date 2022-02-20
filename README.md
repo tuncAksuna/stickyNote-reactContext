@@ -1,3 +1,15 @@
+# OVERVİEW
+- 'c' key lets you add notes
+- 'esc' key cancels operation
+- There are comment,private comment and note options
+- You can move your notes wherever you want thanks to the draggable feature.
+
+![stick-app-1](https://user-images.githubusercontent.com/65118839/154842557-f3c97321-9568-4f4e-b930-eed26671389a.PNG)
+
+![sticky-app-2](https://user-images.githubusercontent.com/65118839/154842556-629529f5-e94b-4944-904b-3f780ea2bc71.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
